@@ -1,0 +1,39 @@
+rodada,data,horario,casa,visitante,treinador,publico,placar,gol_casa,gol_visitante,estadio,resultado,pontos,gols_marcados,gols_sofridos,saldo
+Brasileirão,2025-03-29,18:30,São Paulo,Sport,Luis Zubeldía,37.856,00:00,0,0,mandante,E,1,0,0,0
+Brasileirão,2025-04-06,16:00,Atlético-MG,São Paulo,Luis Zubeldía,28.415,00:00,0,0,visitante,E,1,0,0,0
+Brasileirão,2025-04-13,17:30,São Paulo,Cruzeiro,Luis Zubeldía,37.566,01:01,1,1,mandante,E,1,1,1,0
+Brasileirão,2025-04-16,19:00,Botafogo,São Paulo,Luis Zubeldía,12.014,02:02,2,2,visitante,E,1,2,2,0
+Brasileirão,2025-04-20,16:00,São Paulo,Santos,Luis Zubeldía,52.436,02:01,2,1,mandante,V,3,2,1,1
+Brasileirão,2025-04-26,18:30,Ceará,São Paulo,Luis Zubeldía,46.929,01:01,1,1,visitante,E,1,1,1,0
+Brasileirão,2025-05-02,21:30,São Paulo,Fortaleza,Luis Zubeldía,39.502,00:00,0,0,mandante,E,1,0,0,0
+Brasileirão,2025-05-11,17:30,Palmeiras,São Paulo,Luis Zubeldía,29.709,01:00,1,0,visitante,D,0,0,1,-1
+Brasileirão,2025-05-17,21:00,São Paulo,Grêmio,Hernán Crespo,34.579,02:01,2,1,mandante,V,3,2,1,1
+Brasileirão,2025-05-24,17:30,São Paulo,Mirassol,Luis Zubeldía,30.925,00:02,0,2,mandante,D,0,0,2,-2
+Brasileirão,2025-05-31,17:30,Bahia,São Paulo,Luis Zubeldía,41.041,02:01,2,1,visitante,D,0,1,2,-1
+Brasileirão,2025-06-12,21:30,São Paulo,Vasco da Gama,Luis Zubeldía,20.332,01:03,1,3,mandante,D,0,1,3,-2
+Brasileirão,2025-07-12,16:30,Flamengo,São Paulo,Hernán Crespo,67.359,02:00,2,0,visitante,D,0,0,2,-2
+Brasileirão,2025-07-16,21:30,Bragantino,São Paulo,Hernán Crespo,6.119,02:02,2,2,visitante,E,1,2,2,0
+Brasileirão,2025-07-19,21:00,São Paulo,Corinthians,Hernán Crespo,47.964,02:00,2,0,mandante,V,3,2,0,2
+Brasileirão,2025-07-24,19:00,Juventude,São Paulo,Hernán Crespo,6.095,00:01,0,1,visitante,V,3,1,0,1
+Brasileirão,2025-07-27,16:00,São Paulo,Fluminense,Hernán Crespo,42.628,03:01,3,1,mandante,V,3,3,1,2
+Brasileirão,2025-08-03,20:30,Internacional,São Paulo,Hernán Crespo,11.414,01:02,1,2,visitante,V,3,2,1,1
+Brasileirão,2025-08-09,18:30,São Paulo,Vitória,Hernán Crespo,39.283,02:00,2,0,mandante,V,3,2,0,2
+Brasileirão,2025-08-16,18:30,Sport,São Paulo,Hernán Crespo,26.104,02:02,2,2,visitante,E,1,2,2,0
+Brasileirão,2025-08-24,20:30,São Paulo,Atlético-MG,Hernán Crespo,26.364,02:00,2,0,mandante,V,3,2,0,2
+Brasileirão,2025-08-30,21:00,Cruzeiro,São Paulo,Hernán Crespo,36.882,01:00,1,0,visitante,D,0,0,1,-1
+Brasileirão,2025-09-14,17:30,São Paulo,Botafogo,Hernán Crespo,38.713,01:00,1,0,mandante,V,3,1,0,1
+Brasileirão,2025-09-21,20:30,Santos,São Paulo,Hernán Crespo,12.107,01:00,1,0,visitante,D,0,0,1,-1
+Brasileirão,2025-09-29,20:00,São Paulo,Ceará,Hernán Crespo,12.342,00:01,0,1,mandante,D,0,0,1,-1
+Brasileirão,2025-10-02,19:30,Fortaleza,São Paulo,Hernán Crespo,35.544,00:02,0,2,visitante,V,3,2,0,2
+Brasileirão,2025-10-05,16:00,São Paulo,Palmeiras,Hernán Crespo,33.928,02:03,2,3,mandante,D,0,2,3,-1
+Brasileirão,2025-10-16,19:00,Grêmio,São Paulo,Hernán Crespo,21.526,02:00,2,0,visitante,D,0,0,2,-2
+Brasileirão,2025-10-19,18:30,Mirassol,São Paulo,Hernán Crespo,8.981,03:00,3,0,visitante,D,0,0,3,-3
+Brasileirão,2025-10-25,23:30,São Paulo,Bahia,Hernán Crespo,15.226,02:00,2,0,mandante,V,3,2,0,2
+Brasileirão,2025-11-02,20:30,Vasco da Gama,São Paulo,Hernán Crespo,20.359,00:02,0,2,visitante,V,3,2,0,2
+Brasileirão,2025-11-05,21:30,São Paulo,Flamengo,Hernán Crespo,11.228,02:02,2,2,mandante,E,1,2,2,0
+Brasileirão,2025-11-08,21:00,São Paulo,Bragantino,Hernán Crespo,10.086,00:01,0,1,mandante,D,0,0,1,-1
+Brasileirão,2025-11-20,19:30,Corinthians,São Paulo,Hernán Crespo,46.154,03:01,3,1,visitante,D,0,1,3,-2
+Brasileirão,2025-11-23,16:00,São Paulo,Juventude,Hernán Crespo,6.468,02:01,2,1,mandante,V,3,2,1,1
+Brasileirão,2025-11-27,20:30,Fluminense,São Paulo,Hernán Crespo,30.427,06:00,6,0,visitante,D,0,0,6,-6
+Brasileirão,2025-12-03,20:00,São Paulo,Internacional,Hernán Crespo,7.309,03:00,3,0,mandante,V,3,3,0,3
+Brasileirão,2025-12-07,16:00,Vitória,São Paulo,Hernán Crespo,29.538,01:00,1,0,visitante,D,0,0,1,-1
